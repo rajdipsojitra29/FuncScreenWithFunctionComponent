@@ -1,2 +1,2 @@
 # FuncScreenWithFunctionComponent
-FuncScreen With Function Component
+React Native FuncScreen With Function Component
